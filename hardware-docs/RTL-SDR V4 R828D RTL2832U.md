@@ -89,3 +89,6 @@ dump1090 --gain auto --interactive
 -   RTL-SDR Blog official documentation\
 -   Driver packages (librtlsdr)\
 -   Open-source decoding tools (dump1090, rtl_433, etc.)
+
+Drivers instalation help:
+https://www.rtl-sdr.com/V4/
